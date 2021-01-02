@@ -1,7 +1,7 @@
 
 ## Hi 👋 I am Prateek! 
 
-I am a developer, who likes backend engineering.
+<!-- I am a developer, who likes backend engineering. -->
 
 <!--
 **Pratcode/Pratcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
